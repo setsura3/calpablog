@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-id: https://calpa.me/guestbook/
-title: 留言簿
+id: https://xchen.ninja/guestbook/
+title: Comment
 slug: /guestbook
 date: 2017-01-01T03:48:03.125Z
 description: ""
 tags:
-  - 閱讀
+  - Read
 ---
 
-歡迎留言
+Feel free to leave a comment...

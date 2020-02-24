@@ -1,23 +1,23 @@
 {
-  "url": "https://calpa.me",
+  "url": "https://xchen.ninja",
   "meta": {
-    "favicon": "https://i.imgur.com/PO9Y4fT.jpg",
+    "favicon": "https://i.pinimg.com/originals/0a/42/7f/0a427f8c57082a1d1f0da6538acabf32.jpg",
     "keyword": "calpa, blog, JavaScript",
-    "description": "Calpa 的技術博客，開發日常，以及遇到的坑",
+    "description": "Chen's Blog",
     "theme_color": "#384f7c",
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
-  "name": "calpa",
-  "about": "/2018/05/01/about-calpa-liu/",
-  "email": "calpaliu@gmail.com",
+  "name": "Chen",
+  "about": "https://xchen.ninja",
+  "email": "xchen190325@gmail.com",
   "stats": {
     "image": "https://i.imgur.com/VjBWiSt.png",
     "title": "過去三十日數據",
     "description": "過去三十日數據"
   },
-  "title": "Calpa 的技術博客",
+  "title": "Chen's Technical Blog",
   "gitalk": {
-    "repo": "calpa.github.io",
+    "repo": "https://github.com/setsura3/calpablog",
     "admin": ["calpa"],
     "owner": "calpa",
     "clientID": "18255f031b5e11edd98a",
@@ -28,30 +28,30 @@
   "License": "by",
   "friends": [
     {
-      "href": "https://calpa.me",
-      "title": "Calpa's Blog"
+      "href": "https://www.xchen.ninja",
+      "title": "Chen's Blog"
     }
   ],
-  "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
-  "wordings": ["GatsbyJS, ReactJS", "全週期開發者"],
+  "iconUrl": "https://haochen1.github.io/en/images/avatar.jpg",
+  "wordings": ["Veteran", "Programming Apprentice"],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
       "href": "/guestbook/",
-      "title": "留言簿"
+      "title": "Comment"
     },
     {
       "href": "/tags/",
       "title": "Tags"
     },
     {
-      "href": "/2018/05/01/about-calpa-liu/",
-      "title": "關於作者"
+      "href": "https://www.xchen.ninja",
+      "title": "About me"
     }
   ],
   "redirectors": [
     {
-      "toPath": "/2018/05/01/about-calpa-liu/",
+      "toPath": "https://www.xchen.ninja",
       "fromPath": "/about/"
     }
   ],
@@ -62,8 +62,8 @@
       "target": "/stats/"
     }
   ],
-  "zhihuUsername": "piao-xue-wu-ying",
-  "githubUsername": "calpa",
+  "linkedInUsername": "setsura3",
+  "githubUsername": "setsura3",
   "maxPostsInPage": 10,
-  "facebook": "calpablog"
+  "facebook": "setsura3"
 }

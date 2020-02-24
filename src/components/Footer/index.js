@@ -19,21 +19,21 @@ const Footer = () => (
               title={`React ${React.version}`}
             />
             .&nbsp;Hosted on&nbsp;
-            <ExternalLink href="https://www.netlify.com/" title="Netlify" />
+            <ExternalLink href="aws.amazon.com" title="Amazon Web Service" />
             <br />
             The code is open source and available at&nbsp;
             <ExternalLink
-              href="https://github.com/calpa/gatsby-starter-calpa-blog"
-              title="calpa/gatsby-starter-calpa-blog"
+              href="https://github.com/setsura3/calpablog"
+              title="calpablog"
             />
           </p>
           <p className="copyright">
             Copyright&nbsp;
-            <ExternalLink href="https://calpa.me/" title="&copy;Calpa" />
+            <ExternalLink href="https://xchen.ninja/" title="&copy;Chen" />
             &nbsp;
             {config.title}
             {new Date().getFullYear()}
-            &nbsp;Theme by Calpa Liu
+            &nbsp;Theme by Xin (Chris) Chen
           </p>
         </div>
       </div>
