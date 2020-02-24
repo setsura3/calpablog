@@ -19,7 +19,7 @@ const Footer = () => (
               title={`React ${React.version}`}
             />
             .&nbsp;Hosted on&nbsp;
-            <ExternalLink href="aws.amazon.com" title="Amazon Web Service" />
+            <ExternalLink href="https://aws.amazon.com" title="Amazon Web Service" />
             <br />
             The code is open source and available at&nbsp;
             <ExternalLink
@@ -33,7 +33,7 @@ const Footer = () => (
             &nbsp;
             {config.title}
             {new Date().getFullYear()}
-            &nbsp;Theme by Xin (Chris) Chen
+            &nbsp;Theme by Xin Chen
           </p>
         </div>
       </div>

@@ -15,7 +15,7 @@
     "title": "過去三十日數據",
     "description": "過去三十日數據"
   },
-  "title": "Chen's Technical Blog",
+  "title": "Blog ",
   "gitalk": {
     "repo": "https://github.com/setsura3/calpablog",
     "admin": ["calpa"],
@@ -62,5 +62,6 @@
   "linkedInUsername": "setsura3",
   "githubUsername": "setsura3",
   "maxPostsInPage": 10,
-  "facebook": "setsura3"
+  "facebook": "setsura3",
+  "linkedinName": "in/xin-chen-09282475/"
 }

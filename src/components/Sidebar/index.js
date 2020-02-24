@@ -12,7 +12,7 @@ import './index.scss';
 const {
   wordings = [],
   githubUsername,
-  linkedInUsername,
+  linkedinName,
   email,
   iconUrl,
   about,
@@ -34,6 +34,7 @@ const Icon = ({ href, icon }) => (
 
 const Sidebar = ({ totalCount, latestPosts }) => (
   <header className="intro-header site-heading text-center col-xl-2 col-lg-3 col-xs-12 order-lg-1">
+
     <div className="about-me">
       <Link to={about} href={about} className="name">
         <img className="avatar" src={iconUrl} alt="Chen" />
@@ -46,11 +47,9 @@ const Sidebar = ({ totalCount, latestPosts }) => (
         icon={['fab', 'github']}
       />
       <Icon href={`mailto:${email}`} icon={['far', 'envelope']} />
-      {facebook
-        && <Icon href={`https://www.facebook.com/${facebook}/`} icon={['fab', 'facebook']} />
-      }
       <Information totalCount={totalCount} posts={latestPosts} />
     </div>
+
   </header>
 );
 
