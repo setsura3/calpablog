@@ -8,7 +8,7 @@
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
   "name": "Chen",
-  "about": "https://xchen.ninja",
+  "about": "./",
   "email": "xchen190325@gmail.com",
   "stats": {
     "image": "https://i.imgur.com/VjBWiSt.png",
@@ -36,16 +36,13 @@
   "wordings": ["Veteran", "Programming Apprentice"],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
-    {
-      "href": "/guestbook/",
-      "title": "Comment"
-    },
+
     {
       "href": "/tags/",
       "title": "Tags"
     },
     {
-      "href": "https://www.xchen.ninja",
+      "href": "2018/05/01/about-calpa-liu/",
       "title": "About me"
     }
   ],
